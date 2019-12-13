@@ -1,3 +1,9 @@
-theme: jekyll-theme-cayman
+#Settings
+title: Welcome to my portfolio.
+email: jacob.emerson07@gmail.com
+description: "Portfolio website for Jacob Emerson - Data Science Student at UC Irvine."
+baseurl: ""
+url: "http://jacob-emerson.me"
 
-title: Hello World!
+
+theme: jekyll-theme-cayman
