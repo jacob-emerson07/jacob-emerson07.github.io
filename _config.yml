@@ -6,4 +6,4 @@ baseurl: ""
 url: "http://jacob-emerson.me"
 
 
-theme: jekyll-theme-cayman
+remote_theme: murraco/jekyll-theme-minimal-resume
