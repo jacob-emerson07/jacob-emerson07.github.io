@@ -5,5 +5,4 @@ description: "Portfolio website for Jacob Emerson - Data Science Student at UC I
 baseurl: ""
 url: "http://jacob-emerson.me"
 
-
-remote_theme: murraco/jekyll-theme-minimal-resume
+theme: cayman
