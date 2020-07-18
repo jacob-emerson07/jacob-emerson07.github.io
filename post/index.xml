@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jacob Emerson</title>
-    <link>jacob-emerson.me/post/</link>
+    <link>/post/</link>
     <description>Recent content in Projects on Jacob Emerson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="jacob-emerson.me/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>League of Legends: Surrender at 10?</title>
-      <link>jacob-emerson.me/post/project-1/</link>
+      <link>/post/project-1/</link>
       <pubDate>Fri, 17 Jul 2020 10:58:12 +0000</pubDate>
       
-      <guid>jacob-emerson.me/post/project-1/</guid>
+      <guid>/post/project-1/</guid>
       <description>Trained a model that predicts (with 73% accuracy) the result of a League of Legends game based on the 10-minute stats to see if it&amp;rsquo;s possible for users to upload their game data and find their chances of winning. Used dataset comprised of ~10k games, filtered to only have stats that players can find while in the game. Compared between Logistic Regression, SVC, Linear SVC and Random Forest Classifier to find the best model.</description>
     </item>
     
     <item>
       <title>Driving While Drowsy Detector</title>
-      <link>jacob-emerson.me/post/project-2/</link>
+      <link>/post/project-2/</link>
       <pubDate>Thu, 16 Jul 2020 10:58:12 +0000</pubDate>
       
-      <guid>jacob-emerson.me/post/project-2/</guid>
+      <guid>/post/project-2/</guid>
       <description>System that tracks how well a user stays focused while driving and logs the data into a database. Utilizes OpenCV to see if a user’s eyes are focused on the road and if not, sounds an alarm. Database supports usernames and passwords so that users can see their overall stats over time.  Read More About The Project on GitHub</description>
     </item>
     
