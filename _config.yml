@@ -1,8 +1,0 @@
-#Settings
-title: Welcome to my portfolio.
-email: jacob.emerson07@gmail.com
-description: "Portfolio website for Jacob Emerson - Data Science Student at UC Irvine."
-baseurl: ""
-url: "http://jacob-emerson.me"
-
-theme: jekyll-theme-cayman
