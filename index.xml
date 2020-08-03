@@ -6,10 +6,19 @@
     <description>Recent content in Data Science Portfolio on Jacob Emerson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2020 10:58:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 10:58:12 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Caption Bot for Discord</title>
+      <link>/post/project-3/</link>
+      <pubDate>Sun, 02 Aug 2020 10:58:12 +0000</pubDate>
+      
+      <guid>/post/project-3/</guid>
+      <description>Bot that takes images posted in a chat room and sends a message with a generated caption for that photo. Utilizes the Discord API to extract the image and uses a pre-trained CNN to RNN to make the caption. Usually takes around 7-10 seconds to send a generated caption once an image appears.  Read More About The Project on GitHub</description>
+    </item>
     
     <item>
       <title>League of Legends: Surrender at 10?</title>
@@ -26,7 +35,7 @@
       <pubDate>Thu, 16 Jul 2020 10:58:12 +0000</pubDate>
       
       <guid>/post/project-2/</guid>
-      <description>System that tracks how well a user stays focused while driving and logs the data into a database. Utilizes OpenCV to see if a user’s eyes are focused on the road and if not, sounds an alarm. Database supports usernames and passwords so that users can see their overall stats over time.  Read More About The Project on GitHub</description>
+      <description>System that tracks how well a user stays focused while driving and logs the data into a database. Uses OpenCV along with my own CNN to locate each eye and determine if open or closed. Database supports usernames and passwords so that users can see their overall stats over time.  Read More About The Project on GitHub</description>
     </item>
     
     <item>
